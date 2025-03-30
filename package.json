@@ -1,8 +1,10 @@
 {
-  "name": "effects-adv-prj",
+  "name": "gdsks-glinr-quiz-app",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "A simple interactive Quiz App built with React and Vite by gdsks under Glinr projects.",
+  "author": "gdsks",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
